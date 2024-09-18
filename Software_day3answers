@@ -1,0 +1,65 @@
+What is the first step for installing Dart on a Windows machine?
+ans. B.Download the Dart SDK
+
+2.Which command verifies the Dart installation on macOS?
+ans. D. dart --version
+
+3.What is the next step after downloading and extracting the Flutter SDK on Linux?
+ans. B. Update your PATH
+
+4.What command is used to run a newly created Flutter app?
+C. flutter run
+
+#Python installation
+
+ 1. First step to install Python on a Windows system:
+
+B) Download Python from the official website. This is the initial step to acquire the Python installation file.
+
+2. Option to check during Python installation on Windows:
+
+C) Add Python to PATH. This ensures that you can access Python from any directory in your command prompt.
+
+3. How to verify Python installation on any system:
+
+A) By running python --version. This command will display the installed Python version in your terminal or command prompt.
+
+4. Command to install pip on macOS and Linux:
+
+sudo apt install python3-pip (on Ubuntu and Debian-based systems)
+
+sudo easy_install pip (on other Linux distributions)
+
+brew install pip (on macOS with Homebrew installed)
+
+5. Purpose of a virtual environment in Python:
+
+C) To separate project dependencies and avoid conflicts. Virtual environments create isolated Python environments for each project, ensuring that dependencies don't interfere with other projects.
+
+6. First step to install MySQL on Windows:
+
+B) Download MySQL Installer from the official website. This is the primary method to acquire the MySQL installation package.
+
+7. Setup type for a custom MySQL installation:
+
+D) Custom. This option allows you to select specific components and configurations for your MySQL installation.
+
+8. Products to select during MySQL installation:
+
+A) MySQL Server, MySQL Workbench, and MySQL Shell. These are the core components of MySQL, providing server functionality, a graphical interface, and a command-line tool.
+
+9. Purpose of setting a root password during MySQL installation:
+
+B) To secure your MySQL installation with a super-secret password. The root password grants administrative privileges to your MySQL server.
+
+10. How to begin managing your database after installing MySQL:
+
+B) Launch MySQL Workbench and connect to your MySQL Server. MySQL Workbench is a graphical tool that provides a user-friendly interface for managing your database.
+
+
+
+
+
+
+
+
